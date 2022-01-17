@@ -109,3 +109,4 @@ git config --global alias.komit commit
 git config --global alias.logone 'log --oneline'
 
 //REMOTE
+git remote <link>
